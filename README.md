@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3CjuEunEpPuvrsKEV0f7R_OSPonuZnDUi97Hrz68T9xKpsUHRoFaivipPxNQ6QT3BIHVxtSH85xurEqxSnC1S7rQklKL8vKj40E2xgFWE9ylhjZDHbWoie3Evgl_WjnG2nQ1UxFVs9lg3IAMIv_CHCsuesUuCW_BMddUXU4JErFXLn9Twcy2tKKfHA/s1600/Android-JetpackCompose1.2-Header.png)](https://linkedin.com/in/shafaque)
 <h1 align="center">Hi 👋, I'm Shafaque Sattar</h1>
-<h3 align="center">As a Senior Android Developer, I have successfully tackled diverse challenges and complexities in application development. I played a key role throughout the entire project lifecycle, from initial design and rigorous testing to seamless deployment and ongoing maintenance. My focus has always been on delivering high-quality, user-friendly solutions that exceed expectations.</h3>
+<h3 align="center">As a Senior Android Developer, I have successfully tackled diverse challenges and complexities in application development. I played a key role throughout the project lifecycle, from initial design and rigorous testing to seamless deployment and ongoing maintenance. I have always focused on delivering high-quality, user-friendly solutions that exceed expectations.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shafaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafaque" height="30" width="40" /></a>
