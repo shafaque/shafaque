@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3CjuEunEpPuvrsKEV0f7R_OSPonuZnDUi97Hrz68T9xKpsUHRoFaivipPxNQ6QT3BIHVxtSH85xurEqxSnC1S7rQklKL8vKj40E2xgFWE9ylhjZDHbWoie3Evgl_WjnG2nQ1UxFVs9lg3IAMIv_CHCsuesUuCW_BMddUXU4JErFXLn9Twcy2tKKfHA/s1600/Android-JetpackCompose1.2-Header.png)](https://linkedin.com/in/shafaque)
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FE6F95&width=650&lines=Hi%2C+I'm+Shafaque+Sattar%F0%9F%8E%A9%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FE6F95&width=650&lines=Hi%2C+I'm+Shafaque+Sattar+%F0%9F%91%BE" alt="Typing SVG" /></a>
 </h1>
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=Shafaque&label=Visits+Badge)](https://github.com/shafaque)
